@@ -1,0 +1,2 @@
+# cs101
+I started my Masters of Computer Science at Rowan University this semester. One of the courses I had to take was Essentials of Computer Science (CS 101). I have about 4 years of industry experience in Java but I was extremely new to Python. Both languages were taught in this course so I decided to put my coursework on github
